@@ -1,3 +1,3 @@
 print('Hello World')
-i = 'hello'
+i = 'bye'
 o = 'Big Bick'
